@@ -1,0 +1,26 @@
+{
+  "name": "typescript-basic-types-and-annotation-exercise",
+  "version": "1.0.0",
+  "description": "### ======== Exercise 1.0 ======== Instructions: - Hover over red squigglies to inspect the TS errors. - Hover over variables to inspect their types. - Fix the error on line 18 by changing the value of pi to the expected type.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shiho317/CICCC0414.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shiho317/CICCC0414/issues"
+  },
+  "homepage": "https://github.com/Shiho317/CICCC0414#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.24",
+    "ts-node": "^10.7.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.6.3"
+  }
+}
